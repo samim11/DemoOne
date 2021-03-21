@@ -5,6 +5,8 @@ public class GitDemoTwo {
 		System.out.println("My first github commit...");
 		
 		System.out.println("team1");
+		
+		System.out.println("team2");
 	}
 
 }
